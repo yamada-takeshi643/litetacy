@@ -1,2 +1,2 @@
-# litetacy
+# literacy
 ごはん待ってます

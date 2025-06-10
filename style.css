@@ -1,0 +1,18 @@
+h1{
+    background-color: #FAF3E0; /* 生成り色 */
+      color: #7B3F00; /* 醤油色 */
+      font-family: sans-serif;
+      text-align: center;
+      padding: 2em;
+    }
+
+    header {
+      background-color: #8F9779; /* 抹茶色 */
+      color: white;
+      padding: 1em 0;
+      border-radius: 8px;
+    }
+
+    main {
+      margin-top: 2em;
+}

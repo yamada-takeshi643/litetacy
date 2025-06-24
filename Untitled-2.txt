@@ -1,0 +1,25 @@
+<table>
+<caption>handball result</caption>
+    <tr>
+        <th>ポジション</th>
+        <th>得点</th>
+        <th>失点</th>
+</tr>
+
+<tr>
+<td>CB</td>
+<td>8</td>
+<td>2</td>
+</tr>
+
+<tr>
+<td>LB</td>
+<td>5</td>
+<td>0</td>
+</tr>
+
+<tr>
+<td>RB</td>
+<td>10</td>
+<td>4</td>
+</tr>
